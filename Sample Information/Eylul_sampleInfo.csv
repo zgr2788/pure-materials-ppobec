@@ -1,0 +1,14 @@
+,Accession,GEO,Source,Selection,Layout,Tissue,Cell Type,Cell Line
+Brain ,SRR10216446,GSM4105088,TRANSCRIPTOMIC,cDNA,SINGLE,endothelium,human brain endothelial cells,
+Brain ,SRR10216447,GSM4105089,TRANSCRIPTOMIC,cDNA,SINGLE,endothelium,human brain endothelial cells,
+Brain ,SRR11426826,na,TRANSCRIPTOMIC,Oligo-dT,SINGLE,Brain,Microvascular Endothelial cells,HBMEC
+HCMEC ,SRR5181510,GSM2460783,TRANSCRIPTOMIC,cDNA,SINGLE,Heart,Primary Cardiac Microvascular Endothelial Cells,
+HCMEC ,SRR5181513,GSM2460786,TRANSCRIPTOMIC,cDNA,SINGLE,Heart,Primary Cardiac Microvascular Endothelial Cells,
+Kidney Glomeruli,SRR10153622,GSM4087857,TRANSCRIPTOMIC,cDNA,PAIRED,kidney (Glomeruli),endothelial cell,
+Kidney Glomeruli,SRR10153623,GSM4087858,TRANSCRIPTOMIC,cDNA,PAIRED,kidney (Glomeruli),endothelial cell,
+Liver ,SRR8291616,na,TRANSCRIPTOMIC,Oligo-dT,SINGLE,Liver,endothelial cell,TMNK-1
+Liver ,SRR8291619,na,TRANSCRIPTOMIC,Oligo-dT,SINGLE,Liver,endothelial cell,TMNK-1
+Liver ,SRR8291618,na,TRANSCRIPTOMIC,Oligo-dT,SINGLE,Liver,endothelial cell,TMNK-1
+Lung ,SRR5163578,GSM2451435,TRANSCRIPTOMIC,cDNA,PAIRED,Lung,lung microvascular endothelial cells,HMVEC-L
+Lung ,SRR5163579,GSM2451436,TRANSCRIPTOMIC,cDNA,PAIRED,Lung,lung microvascular endothelial cells,HMVEC-L
+Lung ,SRR5163580,GSM2451437,TRANSCRIPTOMIC,cDNA,PAIRED,Lung,lung microvascular endothelial cells,HMVEC-L

@@ -1,0 +1,11 @@
+Tissue Type,Layout,Source,Selection,SRA,Cell type,Organism,GEO Accession Number,Tissue Type,Layout,Source,Selection,SRA,Cell type,Organism,GEO Accession Number
+Kidney,Paired,Transcriptomic,cDNA,SRR7180192,Cultured ,Homo Sapiens,GSM3145793,Brain Cortex,Paired,Transcriptomic,cDNA,SRR1974794,Temporal Lobe,Homo Sapiens,GSM1658122
+Kidney,Paired,Transcriptomic,cDNA,SRR7180196,Cultured ,Homo Sapiens,GSM3145797,Brain Cortex,Paired,Transcriptomic,cDNA,SRR1974798 ,Temporal Lobe,Homo Sapiens,GSM1658126
+Gastrointestinal System,Paired,Transcriptomic,cDNA,SRR10265253,NA,Homo Sapiens,GSM4117640,HBMEC,Paired,Transcriptomic,cDNA,SRR13815255,NA,Homo Sapiens,GSM5116942
+Gastrointestinal System,Paired,Transcriptomic,cDNA,SRR10265254,NA,Homo Sapiens,GSM4117640,HBMEC,Paired,Transcriptomic,cDNA,ERR3932729,"Induced pluripotent stem cell, blastocyst",Homo Sapiens,NA
+Pulmonary Arter,Paired,Transcriptomic,cDNA,SRR3192377,Primary cell,Homo Sapiens,GSM2072329,HBMEC,Paired,Transcriptomic,cDNA,SRR13815255,NA,Homo Sapiens,GSM5116942
+Pulmonary Arter,Paired,Transcriptomic,cDNA,SRR3192376,Primary cell,Homo Sapiens,GSM2072328,HBMEC,Paired,Transcriptomic,cDNA,ERR3932729,"Induced pluripotent stem cell, blastocyst",Homo Sapiens,NA
+HUVEC,Paired,Transcriptomic,Oligo-dT,SRR14279049 ,NA,Homo Sapiens,NA,HBMEC,Paired,Transcriptomic,cDNA,SRR11973769 ,NA,Homo Sapiens,NA
+HUVEC,Paired,Transcriptomic,Oligo-dT,SRR14279048,NA,Homo Sapiens,NA,HBMEC,Paired,Transcriptomic,cDNA,SRR11973765 ,NA,Homo Sapiens,NA
+Liver,Paired,Transcriptomic,cDNA,SRR7180198 ,Cultured ,Homo Sapiens,GSM3145799,HBMEC,Paired,Transcriptomic,cDNA,SRR11539339 ,"Brain cortex tissue, hPSC",Homo Sapiens,GSM4473243
+Liver,Paired,Transcriptomic,cDNA,SRR7180194 ,Cultured ,Homo Sapiens,GSM3145795,HBMEC,Paired,Genomic,other,SRR6213289 ,Primary cell,Homo Sapiens,GSM2827278
